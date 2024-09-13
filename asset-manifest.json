@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Development-Assignment-E-commerce-Website/static/css/main.0f6baa39.css",
+    "main.js": "/Frontend-Development-Assignment-E-commerce-Website/static/js/main.cefce784.js",
+    "static/js/453.076d0c45.chunk.js": "/Frontend-Development-Assignment-E-commerce-Website/static/js/453.076d0c45.chunk.js",
+    "index.html": "/Frontend-Development-Assignment-E-commerce-Website/index.html",
+    "main.0f6baa39.css.map": "/Frontend-Development-Assignment-E-commerce-Website/static/css/main.0f6baa39.css.map",
+    "main.cefce784.js.map": "/Frontend-Development-Assignment-E-commerce-Website/static/js/main.cefce784.js.map",
+    "453.076d0c45.chunk.js.map": "/Frontend-Development-Assignment-E-commerce-Website/static/js/453.076d0c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6baa39.css",
+    "static/js/main.cefce784.js"
+  ]
+}
